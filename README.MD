@@ -1,0 +1,1 @@
+To start the project press ctrl + f5
